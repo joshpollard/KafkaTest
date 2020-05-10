@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTProducer", "KTProducer\KTProducer.csproj", "{BD527B61-EBF5-4C75-A85E-DBE85C1A7C90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTConsumer", "KTConsumer\KTConsumer.csproj", "{7BEDD8B4-B7F1-4CD3-AC6F-916DEC2FC410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD527B61-EBF5-4C75-A85E-DBE85C1A7C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD527B61-EBF5-4C75-A85E-DBE85C1A7C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD527B61-EBF5-4C75-A85E-DBE85C1A7C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD527B61-EBF5-4C75-A85E-DBE85C1A7C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BEDD8B4-B7F1-4CD3-AC6F-916DEC2FC410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BEDD8B4-B7F1-4CD3-AC6F-916DEC2FC410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BEDD8B4-B7F1-4CD3-AC6F-916DEC2FC410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BEDD8B4-B7F1-4CD3-AC6F-916DEC2FC410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CADFEC37-9DE1-408D-A573-ACA6348B8A17}
+	EndGlobalSection
+EndGlobal
